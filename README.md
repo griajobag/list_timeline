@@ -1,7 +1,8 @@
 # list_timeline
 
 Plugin to create a simple tracking widget for iOS and Android, Windows, and Web
-![Works On Windows](/timeline.png "Works on Windows")
+<br><br>
+<img src="https://raw.githubusercontent.com/griajobag/list_timeline/main/timeline.png"/> 
 
 ## Usage
 
@@ -11,9 +12,10 @@ a [dependency in your pubspec.yaml](https://flutter.io/platform-plugins/).
 ### Example
 
 ```dart
-import 'package:fancy_alert_dialog/fancy_alert_dialog.dart';
-import 'package:flutter/cupertino.dart';
+import 'package:example/data_model.dart';
 import 'package:flutter/material.dart';
+import 'package:intl/intl.dart';
+import 'package:list_timeline/custom_list_tracking.dart';
 
 void main() => runApp(App());
 

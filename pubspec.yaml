@@ -1,6 +1,6 @@
 name: list_timeline
 description: Plugin to create a simple list and timeline.
-version: 0.0.1
+version: 0.0.3
 homepage: https://github.com/griajobag/list_timeline
 
 environment:
